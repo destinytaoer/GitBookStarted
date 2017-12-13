@@ -52,7 +52,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["anchor-navigation-ex "],
+    "plugins": ["anchor-navigation-ex"],
     "pluginsConfig": {
     },
     "variables": {}
