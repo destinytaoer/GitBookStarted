@@ -55,17 +55,13 @@
     "plugins": ["anchor-navigation-ex","theme-comscore","github-buttons"],
     "pluginsConfig": {
         "github-buttons": {
-            "buttons": [{
-                    "user": "destiny0904",
-                    "repo": "GitBookStarted",
-                    "type": "star",
-                    "size": "samll"
-              }, {
-                    "user": "destiny0904",
-                    "type": "follow",
-                    "width": "50",
-                    "count": false
-              }]
+            "repo": "zhangjikai/gitbook-use",
+            "types": [
+                "star",
+                "watch",
+                "fork"
+            ],
+            "size": "small"
           }
     },
     "variables": {}
