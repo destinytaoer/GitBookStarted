@@ -8,12 +8,11 @@
     "language": "zh",
     "links": {
         "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null,
-            "github": "https://github.com/destiny0904"
+            "all": false,
+            "facebook": false,
+            "google": false,
+            "twitter": false,
+            "weibo": false,
         },
         "sidebar": {
         }
@@ -61,11 +60,6 @@
                 "type": "star",
                 "size": "small",
                 "count": true
-              }, {
-                "user": "",
-                "type": "follow",
-                "size": "small",
-                "count": false
               }]
           },
           "github": {
