@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","alerts","expandable-chapters-small","edit-link","klipse","copy-code-button"],
+    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","alerts","expandable-chapters-small","edit-link","klipse","copy-code-button"，"anchor-navigation-ex"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{
