@@ -55,7 +55,7 @@
     "plugins": ["anchor-navigation-ex","theme-comscore","github-buttons"],
     "pluginsConfig": {
         "github-buttons": {
-            "repo": "zhangjikai/gitbook-use",
+            "repo": "destiny0904/GitBookStarted",
             "types": [
                 "star",
                 "watch",
