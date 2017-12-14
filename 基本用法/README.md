@@ -1,5 +1,5 @@
 <!-- ex_nonav -->
-# GitBook 的使用
+# 基本用法
 
 前面介绍过，GitBook 是使用 Github/Git 和 Markdown 来制作的，那么，是不是不会使用 Git、GitHub 或 Markdown 就不能使用 GitBook 呢？
 
