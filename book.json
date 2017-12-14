@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","expandable-chapters-small","simple-page-toc","edit-link","klipse","copy-code-button","anchors","back-to-top-button"],
+    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","expandable-chapters-small","edit-link","klipse","copy-code-button","anchor-navigation-ex"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{
@@ -74,6 +74,9 @@
           "edit-link": {
               "base": "https://github.com/destiny0904/GitBookStarted/edit/master",
               "label": "Edit This Page"
+          },
+          "anchor-navigation-ex": {
+              "multipleH1": false
           }
     },
     "variables": {}
