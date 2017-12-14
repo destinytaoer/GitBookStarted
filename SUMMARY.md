@@ -12,6 +12,7 @@
 ## Part II 拓展
 
 * [4. 配置 book.json](配置/README.md)
+  * [4.1 详细参数](配置/详细参数.md)
 * [5. 主题](主题/README.md)
 * [6. 插件](插件/README.md)
 * [7. GitHub](GitHub/README.md)
