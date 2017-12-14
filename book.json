@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["anchor-navigation-ex","theme-comscore","github-buttons","github"],
+    "plugins": ["theme-comscore","github-buttons","github"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{

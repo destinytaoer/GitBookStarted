@@ -14,5 +14,5 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Ma
 
 # 参考资料
 - [GitBook Help](https://help.gitbook.com/)
+- [GitBook文档(中文版)](https://chrisniael.gitbooks.io/gitbook-documentation/content)
 - [GitBook使用教程](http://gitbook.zhangjikai.com/)
-- [GitBook简明教程](http://www.chengweiyang.cn/gitbook/)
