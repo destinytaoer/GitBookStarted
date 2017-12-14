@@ -52,9 +52,21 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["anchor-navigation-ex","theme-comscore"],
+    "plugins": ["anchor-navigation-ex","theme-comscore","github-buttons"],
     "pluginsConfig": {
-         
+        "github-buttons": {
+            "buttons": [{
+                    "user": "destiny0904",
+                    "repo": "GitBookStarted",
+                    "type": "star",
+                    "size": "large"
+              }, {
+                    "user": "destiny0904",
+                    "type": "follow",
+                    "width": "230",
+                    "count": true
+              }]
+          }
     },
     "variables": {}
 }
