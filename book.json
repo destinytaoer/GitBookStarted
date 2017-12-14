@@ -60,6 +60,13 @@
                 "type": "star",
                 "size": "small",
                 "count": true
+              },
+              {
+                "user": "",
+                "type": "fllow",
+                "size": "small",
+                "count": true
+
               }]
           },
           "github": {
