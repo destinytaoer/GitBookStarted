@@ -54,11 +54,7 @@
     },
     "plugins": ["anchor-navigation-ex","theme-comscore"],
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": "20"
-        }
+         
     },
     "variables": {}
 }
