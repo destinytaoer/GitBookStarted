@@ -8,11 +8,11 @@
     "language": "zh",
     "links": {
         "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
+            "all": false,
+            "facebook": false,
+            "google": false,
+            "twitter": false,
+            "weibo": false
         },
         "sidebar": {
         }
