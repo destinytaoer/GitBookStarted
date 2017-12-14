@@ -8,7 +8,7 @@
     "language": "zh",
     "links": {
         "sharing": {
-            "all": false,
+            "all": null,
             "facebook": false,
             "google": false,
             "twitter": false,
