@@ -39,4 +39,4 @@ git remote add gitbook https://git.gitbook.com/{{UserName}}/{{Book}}.git
 git push -u gitbook master
 ```
 
-**注**：本文引自官网 [help 文档](https://help.gitbook.com/books/how-can-i-use-git.html)
+>**[warn] 注**：本文引自官网 [help 文档](https://help.gitbook.com/books/how-can-i-use-git.html)

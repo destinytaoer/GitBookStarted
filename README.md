@@ -12,7 +12,7 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Ma
 
 - 能像博客一样分享出去，甚至，你还可以出书。因为这本身就是一个编辑电子书的平台。
 
-# 参考资料
+>**[info] 参考资料**
 - [GitBook Help](https://help.gitbook.com/)
 - [GitBook文档(中文版)](https://chrisniael.gitbooks.io/gitbook-documentation/content)
 - [GitBook使用教程](http://gitbook.zhangjikai.com/)
