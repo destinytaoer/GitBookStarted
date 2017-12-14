@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["theme-comscore","github-buttons","github"],
+    "plugins": ["theme-comscore","github-buttons","github","tbfed-pagefooter","expandable-chapters-small","simple-page-toc"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{
@@ -64,6 +64,15 @@
           },
           "github": {
               "url": "https://github.com/destiny0904"
+          },
+          "tbfed-pagefooter": {
+              "copyright":"Copyright &copy destiny 2017",
+              "modify_label": "该文件修订时间：",
+              "modify_format": "YYYY-MM-DD HH:mm:ss"
+          },
+          "simple-page-toc": {
+              "maxDepth": 3,
+              "skipFirstH1": true
           }
     },
     "variables": {}
