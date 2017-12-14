@@ -9,10 +9,10 @@
     "links": {
         "sharing": {
             "all": null,
-            "facebook": false,
-            "google": false,
-            "twitter": false,
-            "weibo": false,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null,
         },
         "sidebar": {
         }
