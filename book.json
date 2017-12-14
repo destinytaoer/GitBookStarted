@@ -62,9 +62,9 @@
                 "size": "small"
               }, {
                 "user": "destiny0904",
-                "repo": "GitBookStarted",
                 "type": "follow",
-                "size": "small"
+                "size": "small",
+                "count": false
               }]
           }，
           "github": {
