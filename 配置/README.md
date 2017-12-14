@@ -1,3 +1,4 @@
+<!-- ex_nonav -->
 # 配置 book.json
 首先在你的书的根目录下创建一个 `book.json` 文件。下面是本书的配置：
 ```json
