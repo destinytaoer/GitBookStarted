@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["theme-comscore","github-buttons","github","tbfed-pagefooter","expandable-chapters-small","simple-page-toc","edit-link"],
+    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","expandable-chapters-small","simple-page-toc","edit-link","klipse","copy-code-button"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{
@@ -61,9 +61,6 @@
                 "size": "small",
                 "count": true
               }]
-          },
-          "github": {
-              "url": "https://github.com/destiny0904"
           },
           "tbfed-pagefooter": {
               "copyright":"Copyright &copy destiny 2017",
