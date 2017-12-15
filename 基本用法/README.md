@@ -9,9 +9,9 @@ Gitbook 有自己的文本编辑器，你可以使用 Markdown，也可以使用
 
 这里主要介绍的，就是使用 gitbook 自身的编辑器。
 
-# Markdown
+## Markdown
 虽然不要求使用 Markdown，但是，**强烈建议**学习 Markdown 来编辑文本。
 
->**[info] 参考文章**：
->
->[Markdown学习总结](http://destinytaoer.cn/2017/07/markdown%E8%AF%AD%E6%B3%95/)
+## 参考文章
+
+- [Markdown学习总结](http://destinytaoer.cn/2017/07/markdown%E8%AF%AD%E6%B3%95/)

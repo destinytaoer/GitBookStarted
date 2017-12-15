@@ -51,7 +51,7 @@
         "mobi": "styles/mobi.css",
         "epub": "styles/epub.css"
     },
-    "plugins": ["theme-comscore","github-buttons","tbfed-pagefooter","alerts","expandable-chapters-small","edit-link","klipse","copy-code-button","anchor-navigation-ex"],
+    "plugins": ["github-buttons","tbfed-pagefooter","alerts","expandable-chapters-small","edit-link"],
     "pluginsConfig": {
         "github-buttons": {
             "buttons": [{
@@ -66,10 +66,6 @@
               "copyright":"Copyright &copy destiny 2017",
               "modify_label": "该文件修订时间：",
               "modify_format": "YYYY-MM-DD HH:mm:ss"
-          },
-          "simple-page-toc": {
-              "maxDepth": 3,
-              "skipFirstH1": true
           },
           "edit-link": {
               "base": "https://github.com/destiny0904/GitBookStarted/edit/master",
