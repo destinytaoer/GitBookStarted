@@ -1,4 +1,3 @@
-<!-- ex_nonav -->
 # 配置 book.json
 首先在你的书的根目录下创建一个 `book.json` 文件。下面是本书的配置：
 ```json
@@ -9,7 +8,7 @@
     "extension": null,
     "generator": "website",
     "isbn": "",
-    "language": "zh",
+    "language": "zh-hans",
     "links": {
         "sharing": {
             "all": false,
