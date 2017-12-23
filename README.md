@@ -19,6 +19,9 @@ Part I 基本用法
   - 1.2 [编辑书籍](https://destiny0904.gitbooks.io/gitbook/content/%E5%9F%BA%E6%9C%AC%E7%94%A8%E6%B3%95/%E7%BC%96%E8%BE%91%E4%B9%A6%E7%B1%8D.html)
 - 2.[目录结构](https://destiny0904.gitbooks.io/gitbook/content/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84/)
 - 3.[Git用法](https://destiny0904.gitbooks.io/gitbook/content/Git%E7%94%A8%E6%B3%95/)
+  - 3.1 [安装](https://gitbook.destinytaoer.cn/Git%E7%94%A8%E6%B3%95/%E5%AE%89%E8%A3%85.html)
+  - 3.2 [命令介绍](https://gitbook.destinytaoer.cn/Git%E7%94%A8%E6%B3%95/%E5%91%BD%E4%BB%A4%E4%BB%8B%E7%BB%8D.html)
+  - 3.3 [发布](https://gitbook.destinytaoer.cn/Git%E7%94%A8%E6%B3%95/%E5%8F%91%E5%B8%83.html)
 
 Part II 拓展
 - 4.[配置 book.json](https://destiny0904.gitbooks.io/gitbook/content/%E9%85%8D%E7%BD%AE/)
@@ -27,6 +30,7 @@ Part II 拓展
   - 5.1 [主题插件介绍](https://destiny0904.gitbooks.io/gitbook/content/%E6%8F%92%E4%BB%B6/%E4%B8%BB%E9%A2%98%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D.html)
   - 5.2 [功能插件介绍](https://destiny0904.gitbooks.io/gitbook/content/%E6%8F%92%E4%BB%B6/%E5%8A%9F%E8%83%BD%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D.html)
 - 6.[GitHub](https://destiny0904.gitbooks.io/gitbook/content/GitHub/)
+- 7.[域名解析](https://gitbook.destinytaoer.cn/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90/)
 
 ## 参考资料
 - [GitBook Help](https://help.gitbook.com/)
