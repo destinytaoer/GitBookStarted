@@ -1,6 +1,8 @@
-# 配置 book.json
+# 4. 配置 book.json
+
 首先在你的书的根目录下创建一个 `book.json` 文件。下面是本书的配置：
-```json
+
+```javascript
 {
     "title": "GitBook入门",
     "author": "destiny",
@@ -73,4 +75,5 @@
 }
 ```
 
->**[danger] 注意**：在写完配置文件后，一定要通过 [JSONLint](https://jsonlint.com/) 的去验证这个文件的合法性。否则会无法发布。同时，也可以用它来查找错误。
+> **\[danger\] 注意**：在写完配置文件后，一定要通过 [JSONLint](https://jsonlint.com/) 的去验证这个文件的合法性。否则会无法发布。同时，也可以用它来查找错误。
+
