@@ -4,7 +4,6 @@
 
 ## Part I 基本用法
 
-* [前言](parti-ji-ben-yong-fa/qian-yan.md)
 * [1. 基本用法](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/README.md)
   * [1.1 创建书籍](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/1.1-chuang-jian-shu-ji.md)
   * [1.2 编辑书籍](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/1.2-bian-ji-shu-ji.md)
