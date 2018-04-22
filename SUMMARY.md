@@ -23,3 +23,7 @@
 * [6. GitHub](part-ii-tuo-zhan/6.-github.md)
 * [7. 域名解析](part-ii-tuo-zhan/7.-yu-ming-jie-xi.md)
 
+## PART III 新版本
+
+* [8. 新版本上手](part-iii-xin-ban-ben/8.-xin-ban-ben-shang-shou.md)
+
