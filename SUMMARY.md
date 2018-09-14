@@ -26,4 +26,5 @@
 ## PART III 新版本
 
 * [8. 新版本上手](part-iii-xin-ban-ben/8.-xin-ban-ben-shang-shou.md)
+* [9. 新版本功能](part-iii-xin-ban-ben/9.-xin-ban-ben-gong-neng.md)
 
