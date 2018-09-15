@@ -4,27 +4,27 @@
 
 ## Part I 基本用法
 
-* [1. 基本用法](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/README.md)
-  * [1.1 创建书籍](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/1.1-chuang-jian-shu-ji.md)
-  * [1.2 编辑书籍](parti-ji-ben-yong-fa/1.-ji-ben-yong-fa/1.2-bian-ji-shu-ji.md)
-* [2. 目录结构](parti-ji-ben-yong-fa/2.-mu-lu-jie-gou.md)
-* [3. Git 用法](parti-ji-ben-yong-fa/3.-git-yong-fa/README.md)
-  * [3.1 安装](parti-ji-ben-yong-fa/3.-git-yong-fa/3.1-an-zhuang.md)
-  * [3.2 命令介绍](parti-ji-ben-yong-fa/3.-git-yong-fa/3.2-ming-ling-jie-shao.md)
-  * [3.3 发布](parti-ji-ben-yong-fa/3.-git-yong-fa/3.3-fa-bu.md)
+* [1. 基本用法](basic-usage/basic-usage/README.md)
+  * [1.1 创建书籍](basic-usage/basic-usage/create-book.md)
+  * [1.2 编辑书籍](basic-usage/basic-usage/editor-book.md)
+* [2. 目录结构](basic-usage/directory-structure.md)
+* [3. Git 用法](basic-usage/use-git/README.md)
+  * [3.1 安装](basic-usage/use-git/install.md)
+  * [3.2 命令介绍](basic-usage/use-git/command-introduction.md)
+  * [3.3 发布](basic-usage/use-git/publish.md)
 
 ## Part II 拓展
 
-* [4. 配置 book.json](part-ii-tuo-zhan/4.-pei-zhi-book.json/README.md)
-  * [4.1 详细参数](part-ii-tuo-zhan/4.-pei-zhi-book.json/4.1-xiang-xi-can-shu.md)
-* [5. 插件](part-ii-tuo-zhan/5.-cha-jian/README.md)
-  * [5.1 主题插件介绍](part-ii-tuo-zhan/5.-cha-jian/5.1-zhu-ti-cha-jian-jie-shao.md)
-  * [5.2 功能插件介绍](part-ii-tuo-zhan/5.-cha-jian/5.2-gong-neng-cha-jian-jie-shao.md)
-* [6. GitHub](part-ii-tuo-zhan/6.-github.md)
-* [7. 域名解析](part-ii-tuo-zhan/7.-yu-ming-jie-xi.md)
+* [4. 配置 book.json](expand/book.json/README.md)
+  * [4.1 详细参数](expand/book.json/parameters.md)
+* [5. 插件](expand/plugins/README.md)
+  * [5.1 主题插件介绍](expand/plugins/theme-plugins.md)
+  * [5.2 功能插件介绍](expand/plugins/function-plugins.md)
+* [6. GitHub](expand/github.md)
+* [7. 域名解析](expand/custom-domain.md)
 
 ## PART III 新版本
 
-* [8. 新版本上手](part-iii-xin-ban-ben/8.-xin-ban-ben-shang-shou.md)
-* [9. 新版本功能](part-iii-xin-ban-ben/9.-xin-ban-ben-gong-neng.md)
+* [8. 新版本上手](new-version/intro.md)
+* [9. 新版本功能](new-version/feature.md)
 
