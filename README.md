@@ -16,25 +16,30 @@ GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Ma
 
 Part I 基本用法
 
-* [前言](https://destiny0904.gitbooks.io/gitbook/content/)
-* 1.[基本用法](https://destiny0904.gitbooks.io/gitbook/content/基本用法/)
-  * 1.1 [创建书籍](https://destiny0904.gitbooks.io/gitbook/content/基本用法/创建书籍.html)
-  * 1.2 [编辑书籍](https://destiny0904.gitbooks.io/gitbook/content/基本用法/编辑书籍.html)
-* 2.[目录结构](https://destiny0904.gitbooks.io/gitbook/content/目录结构/)
-* 3.[Git用法](https://destiny0904.gitbooks.io/gitbook/content/Git用法/)
-  * 3.1 [安装](https://gitbook.destinytaoer.cn/Git用法/安装.html)
-  * 3.2 [命令介绍](https://gitbook.destinytaoer.cn/Git用法/命令介绍.html)
-  * 3.3 [发布](https://gitbook.destinytaoer.cn/Git用法/发布.html)
+* 前言
+* 1.基本用法
+  * 1.1 创建书籍
+  * 1.2 编辑书籍
+* 2.目录结构
+* 3.Git用法
+  * 3.1 安装
+  * 3.2 命令介绍
+  * 3.3 发布
 
 Part II 拓展
 
-* 4.[配置 book.json](https://destiny0904.gitbooks.io/gitbook/content/配置/)
-  * 4.1 [详细参数](https://destiny0904.gitbooks.io/gitbook/content/配置/详细参数.html)
-* 5.[插件](https://destiny0904.gitbooks.io/gitbook/content/插件/)
-  * 5.1 [主题插件介绍](https://destiny0904.gitbooks.io/gitbook/content/插件/主题插件介绍.html)
-  * 5.2 [功能插件介绍](https://destiny0904.gitbooks.io/gitbook/content/插件/功能插件介绍.html)
-* 6.[GitHub](https://destiny0904.gitbooks.io/gitbook/content/GitHub/)
-* 7.[域名解析](https://gitbook.destinytaoer.cn/域名解析/)
+* 4.配置 book.json
+  * 4.1 详细参数
+* 5.插件
+  * 5.1 主题插件介绍
+  * 5.2 功能插件介绍
+* 6.GitHub
+* 7.域名解析
+
+Part III 新版本
+
+* 8. 新版本上手
+* 9. 新版本功能
 
 ## 参考资料
 
